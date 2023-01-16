@@ -1,2 +1,14 @@
-# Decision
-Relearn the basics of Java
+# 项目说明
+
+Decision 项目旨在练习，并创建一些可复用的信息模板。
+
+# 模块说明
+
+- QuickStart：快速入门
+  - Java 程序基本结构
+  - 变量与数据类型
+  - 整数运算
+  - 浮点数运算
+  - 布尔运算
+  - 字符和字符串
+  - 数组类型
