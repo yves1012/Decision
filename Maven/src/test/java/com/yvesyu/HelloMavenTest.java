@@ -10,7 +10,6 @@ import org.junit.Test;
  * @Create: 2023/1/16 - 14:24
  */
 public class HelloMavenTest {
-
     @Test
     public void sayHelloTest() {
         HelloMaven helloMaven = new HelloMaven();
